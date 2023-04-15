@@ -1,0 +1,8 @@
+__pycache__/
+bin/
+etc/
+exdata/
+include/
+lib/
+lib64/
+share/
