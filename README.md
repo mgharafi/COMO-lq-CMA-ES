@@ -1,1 +1,0 @@
-# COMO-lq-CMA-ES
